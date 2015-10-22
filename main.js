@@ -1,3 +1,5 @@
+var tabris = require('tabris');
+
 var page = tabris.create("Page", {
     title: "Вход в систему",
     topLevel: true
