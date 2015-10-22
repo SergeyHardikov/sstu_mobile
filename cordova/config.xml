@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.tabrisjs.getting.started" version="1.0.0">
-  <name>HelloWorld</name>
+  <name>SSTU</name>
   <description>
-   A sample Tabris.js application.
+   Студенческая сеть СГТУ
   </description>
-  <author email="dev@tabrisjs.com" href="https://tabrisjs.com">
-   Tabris.js Team
+  <author email="sergey@hardikov.ru" href="http://hardikov.ru">
+   СГТУ УИТ
   </author>
 </widget>

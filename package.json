@@ -1,8 +1,8 @@
 {
-  "name": "tabris-getting-started",
-  "description": "Tabris.js - Hello, World!",
-  "main": "hello.js",
+  "name": "sstu_mobile",
+  "description": "Студенческая сеть СГТУ",
+  "main": "main.js",
   "dependencies": {
-    "tabris": "1.1.0"
+    "tabris": "0.0.1"
   }
 }
