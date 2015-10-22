@@ -1,4 +1,4 @@
-var tabris = require('tabris');
+var tabris = require('tabrisjs');
 
 var page = tabris.create("Page", {
     title: "Вход в систему",
