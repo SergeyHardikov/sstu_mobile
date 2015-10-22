@@ -49,9 +49,9 @@ tabris.create("Button", {
 page.apply({
     "#usernameLabel": {layoutData: {left: 10, top: 18, width: 120}},
     "#usernameInput": {layoutData: {left: "#usernameLabel 10", right: 10, baseline: "#usernameLabel"}},
-    "#passLabel": {layoutData: {left: 10, top: "#usernameLabel 18", width: 120}},
+    "#passLabel": {layoutData: {left: 10, top: 50, width: 120}},
     "#passInput": {layoutData: {left: "#passLabel 10", right: 10, baseline: "#passLabel"}},
-    "#done": {layoutData: {left: 10, right: 10, top: "#passLabel 18"}}
+    "#done": {layoutData: {left: 10, right: 10, top: 100}}
 });
 
 page.open();
