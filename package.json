@@ -1,6 +1,6 @@
 {
-  "title": "Hello, World!",
-  "description": "Tabris.js - Hello, World!",
+  "title": "SSTU",
+  "description": "Hello, World!",
   "category": "Small Apps",
   "main": "hello.js",
   "dependencies": {
