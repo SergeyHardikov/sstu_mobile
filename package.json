@@ -1,7 +1,7 @@
 {
   "name": "sstu",
   "description": "СГТУ - Онлайн",
-  "main": "hello.js",
+  "main": "main.js",
   "dependencies": {
     "tabris": "1.1.0"
   }
