@@ -2,9 +2,9 @@
 <widget id="com.sstu.mobile" version="1.0.0">
   <name>СГТУ - Онлайн</name>
   <description>
-   A sample Tabris.js application.
+   СГТУ - Социальная сеть студентов
   </description>
-  <author email="dev@tabrisjs.com" href="https://tabrisjs.com">
-   Tabris.js Team1
+  <author email="sergey@hardikov.ru" href="http://hardikov.ru">
+   Sergey Hardikov
   </author>
 </widget>

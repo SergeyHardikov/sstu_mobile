@@ -1,5 +1,5 @@
 var page = tabris.create("Page", {
-    title: "Hello, World!",
+    title: "Вход в систему",
     topLevel: true
 });
 
