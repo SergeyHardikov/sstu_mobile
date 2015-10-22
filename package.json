@@ -1,9 +1,0 @@
-{
-  "title": "SSTU",
-  "description": "Hello, World!",
-  "category": "Small Apps",
-  "main": "hello.js",
-  "dependencies": {
-    "tabris": "^1.0.0"
-  }
-}
