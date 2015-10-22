@@ -1,6 +1,6 @@
 {
-  "name": "tabris-getting-started",
-  "description": "Tabris.js - Hello, World!",
+  "name": "sstu",
+  "description": "sstu student social",
   "main": "hello.js",
   "dependencies": {
     "tabris": "1.1.0"
